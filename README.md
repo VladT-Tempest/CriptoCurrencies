@@ -1,4 +1,4 @@
-# CriptoCurrencies Wallet
+# CriptoCurrencies Wallet Calc
 This python script reads the portfolio.txt file and using the CoinMarketCap API calculates the current value of each of the cryptocurrencies according to the amount referenced in the file. Tested in python 3.5.
 
 ## Requirements
